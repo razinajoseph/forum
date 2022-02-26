@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: raleway;
+}
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar{
+   
+  padding:10px;
+}
+navbar-brand img{
+   
+    padding-left: 20px;
+}
+.navbar-nav li{
+    padding: 0 10px;
+    
+    font-size:25px;
+    
+}
+#banner{
+    background-image: linear-gradient(blue,black);
+    color:white;
+    padding-top: 5%;
+
+}
+.dream{
+    font-size:;
+    font-weight: 600;
+    margin-top: 100px;
+}
+
+    
